@@ -1,0 +1,5 @@
+if(EXISTS "C:/Users/komornicki/OneDrive - ZF Friedrichshafen AG/Desktop/Cpp_Projects/CowClass/build/main[1]_tests.cmake")
+  include("C:/Users/komornicki/OneDrive - ZF Friedrichshafen AG/Desktop/Cpp_Projects/CowClass/build/main[1]_tests.cmake")
+else()
+  add_test(main_NOT_BUILT main_NOT_BUILT)
+endif()

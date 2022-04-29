@@ -1,0 +1,5 @@
+add_test([=[cow_model.CowSetterTest]=]  [==[C:/Users/komornicki/OneDrive - ZF Friedrichshafen AG/Desktop/Cpp_Projects/CowClass/build/main.exe]==] [==[--gtest_filter=cow_model.CowSetterTest]==] --gtest_also_run_disabled_tests)
+set_tests_properties([=[cow_model.CowSetterTest]=]  PROPERTIES WORKING_DIRECTORY [==[C:/Users/komornicki/OneDrive - ZF Friedrichshafen AG/Desktop/Cpp_Projects/CowClass/build]==] SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+add_test([=[cow_model.CowGetterTest]=]  [==[C:/Users/komornicki/OneDrive - ZF Friedrichshafen AG/Desktop/Cpp_Projects/CowClass/build/main.exe]==] [==[--gtest_filter=cow_model.CowGetterTest]==] --gtest_also_run_disabled_tests)
+set_tests_properties([=[cow_model.CowGetterTest]=]  PROPERTIES WORKING_DIRECTORY [==[C:/Users/komornicki/OneDrive - ZF Friedrichshafen AG/Desktop/Cpp_Projects/CowClass/build]==] SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+set(  main_TESTS cow_model.CowSetterTest cow_model.CowGetterTest)

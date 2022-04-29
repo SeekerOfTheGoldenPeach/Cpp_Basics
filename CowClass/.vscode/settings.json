@@ -1,0 +1,32 @@
+{
+    "C_Cpp_Runner.cCompilerPath": "C:/msys64/mingw64/bin/gcc",
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "scope": "googletest.failed",
+                "settings": {
+                    "foreground": "#f00"
+                }
+            },
+            {
+                "scope": "googletest.passed",
+                "settings": {
+                    "foreground": "#0f0"
+                }
+            },
+            {
+                "scope": "googletest.run",
+                "settings": {
+                    "foreground": "#0f0"
+                }
+            }
+        ]
+    },
+    "files.associations": {
+        "ostream": "cpp",
+        "iostream": "cpp"
+    },
+    "gtest-adapter.debugConfig": [
+        "g++.exe - Build and debug active file"
+    ]
+}
