@@ -8,14 +8,14 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/komornicki/OneDrive - ZF Friedrichshafen AG/Desktop/Cpp_Projects/CowClass/cow.cpp" "CMakeFiles/main.dir/cow.cpp.obj" "gcc" "CMakeFiles/main.dir/cow.cpp.obj.d"
-  "C:/Users/komornicki/OneDrive - ZF Friedrichshafen AG/Desktop/Cpp_Projects/CowClass/cow_test.cpp" "CMakeFiles/main.dir/cow_test.cpp.obj" "gcc" "CMakeFiles/main.dir/cow_test.cpp.obj.d"
+  "C:/Users/komornicki/OneDrive - ZF Friedrichshafen AG/Desktop/Cpp_Basics/CowClass/cow.cpp" "CMakeFiles/main.dir/cow.cpp.obj" "gcc" "CMakeFiles/main.dir/cow.cpp.obj.d"
+  "C:/Users/komornicki/OneDrive - ZF Friedrichshafen AG/Desktop/Cpp_Basics/CowClass/cow_test.cpp" "CMakeFiles/main.dir/cow_test.cpp.obj" "gcc" "CMakeFiles/main.dir/cow_test.cpp.obj.d"
   )
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "C:/Users/komornicki/OneDrive - ZF Friedrichshafen AG/Desktop/Cpp_Projects/CowClass/build/_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/DependInfo.cmake"
-  "C:/Users/komornicki/OneDrive - ZF Friedrichshafen AG/Desktop/Cpp_Projects/CowClass/build/_deps/googletest-build/googletest/CMakeFiles/gtest.dir/DependInfo.cmake"
+  "C:/Users/komornicki/OneDrive - ZF Friedrichshafen AG/Desktop/Cpp_Basics/CowClass/build/_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/DependInfo.cmake"
+  "C:/Users/komornicki/OneDrive - ZF Friedrichshafen AG/Desktop/Cpp_Basics/CowClass/build/_deps/googletest-build/googletest/CMakeFiles/gtest.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

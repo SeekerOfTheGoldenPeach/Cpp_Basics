@@ -5,8 +5,8 @@ cmake_minimum_required(VERSION 3.5)
 
 # Make file names absolute:
 #
-get_filename_component(filename "C:/Users/komornicki/OneDrive - ZF Friedrichshafen AG/Desktop/Cpp_Projects/CowClass/build/_deps/googletest-subbuild/googletest-populate-prefix/src/609281088cfefc76f9d0ce82e1ff6c30cc3591e5.zip" ABSOLUTE)
-get_filename_component(directory "C:/Users/komornicki/OneDrive - ZF Friedrichshafen AG/Desktop/Cpp_Projects/CowClass/build/_deps/googletest-src" ABSOLUTE)
+get_filename_component(filename "C:/Users/komornicki/OneDrive - ZF Friedrichshafen AG/Desktop/Cpp_Basics/CowClass/build/_deps/googletest-subbuild/googletest-populate-prefix/src/609281088cfefc76f9d0ce82e1ff6c30cc3591e5.zip" ABSOLUTE)
+get_filename_component(directory "C:/Users/komornicki/OneDrive - ZF Friedrichshafen AG/Desktop/Cpp_Basics/CowClass/build/_deps/googletest-src" ABSOLUTE)
 
 message(STATUS "extracting...
      src='${filename}'

@@ -1,3 +1,3 @@
-C:/Users/komornicki/OneDrive - ZF Friedrichshafen AG/Desktop/Cpp_Projects/CowClass/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
-C:/Users/komornicki/OneDrive - ZF Friedrichshafen AG/Desktop/Cpp_Projects/CowClass/build/_deps/googletest-subbuild/CMakeFiles/edit_cache.dir
-C:/Users/komornicki/OneDrive - ZF Friedrichshafen AG/Desktop/Cpp_Projects/CowClass/build/_deps/googletest-subbuild/CMakeFiles/rebuild_cache.dir
+C:/Users/komornicki/OneDrive - ZF Friedrichshafen AG/Desktop/Cpp_Basics/CowClass/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
+C:/Users/komornicki/OneDrive - ZF Friedrichshafen AG/Desktop/Cpp_Basics/CowClass/build/_deps/googletest-subbuild/CMakeFiles/edit_cache.dir
+C:/Users/komornicki/OneDrive - ZF Friedrichshafen AG/Desktop/Cpp_Basics/CowClass/build/_deps/googletest-subbuild/CMakeFiles/rebuild_cache.dir

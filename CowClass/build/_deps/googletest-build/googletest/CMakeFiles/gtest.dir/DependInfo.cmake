@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/komornicki/OneDrive - ZF Friedrichshafen AG/Desktop/Cpp_Projects/CowClass/build/_deps/googletest-src/googletest/src/gtest-all.cc" "_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj" "gcc" "_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj.d"
+  "C:/Users/komornicki/OneDrive - ZF Friedrichshafen AG/Desktop/Cpp_Basics/CowClass/build/_deps/googletest-src/googletest/src/gtest-all.cc" "_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj" "gcc" "_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj.d"
   )
 
 # Targets to which this target links.

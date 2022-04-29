@@ -53,10 +53,10 @@ RM = C:/cmake-3.23.0-rc1-windows-x86_64/bin/cmake.exe -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:/Users/komornicki/OneDrive - ZF Friedrichshafen AG/Desktop/Cpp_Projects/CowClass"
+CMAKE_SOURCE_DIR = "C:/Users/komornicki/OneDrive - ZF Friedrichshafen AG/Desktop/Cpp_Basics/CowClass"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:/Users/komornicki/OneDrive - ZF Friedrichshafen AG/Desktop/Cpp_Projects/CowClass/build"
+CMAKE_BINARY_DIR = "C:/Users/komornicki/OneDrive - ZF Friedrichshafen AG/Desktop/Cpp_Basics/CowClass/build"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/main.dir/depend.make
@@ -73,31 +73,31 @@ CMakeFiles/main.dir/cow.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/cow.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/cow.cpp.obj: ../cow.cpp
 CMakeFiles/main.dir/cow.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:/Users/komornicki/OneDrive - ZF Friedrichshafen AG/Desktop/Cpp_Projects/CowClass/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/main.dir/cow.cpp.obj"
-	C:/msys64/mingw64/bin/x86_64-w64-mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/cow.cpp.obj -MF CMakeFiles/main.dir/cow.cpp.obj.d -o CMakeFiles/main.dir/cow.cpp.obj -c "C:/Users/komornicki/OneDrive - ZF Friedrichshafen AG/Desktop/Cpp_Projects/CowClass/cow.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:/Users/komornicki/OneDrive - ZF Friedrichshafen AG/Desktop/Cpp_Basics/CowClass/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/main.dir/cow.cpp.obj"
+	C:/msys64/mingw64/bin/x86_64-w64-mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/cow.cpp.obj -MF CMakeFiles/main.dir/cow.cpp.obj.d -o CMakeFiles/main.dir/cow.cpp.obj -c "C:/Users/komornicki/OneDrive - ZF Friedrichshafen AG/Desktop/Cpp_Basics/CowClass/cow.cpp"
 
 CMakeFiles/main.dir/cow.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/main.dir/cow.cpp.i"
-	C:/msys64/mingw64/bin/x86_64-w64-mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:/Users/komornicki/OneDrive - ZF Friedrichshafen AG/Desktop/Cpp_Projects/CowClass/cow.cpp" > CMakeFiles/main.dir/cow.cpp.i
+	C:/msys64/mingw64/bin/x86_64-w64-mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:/Users/komornicki/OneDrive - ZF Friedrichshafen AG/Desktop/Cpp_Basics/CowClass/cow.cpp" > CMakeFiles/main.dir/cow.cpp.i
 
 CMakeFiles/main.dir/cow.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/main.dir/cow.cpp.s"
-	C:/msys64/mingw64/bin/x86_64-w64-mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:/Users/komornicki/OneDrive - ZF Friedrichshafen AG/Desktop/Cpp_Projects/CowClass/cow.cpp" -o CMakeFiles/main.dir/cow.cpp.s
+	C:/msys64/mingw64/bin/x86_64-w64-mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:/Users/komornicki/OneDrive - ZF Friedrichshafen AG/Desktop/Cpp_Basics/CowClass/cow.cpp" -o CMakeFiles/main.dir/cow.cpp.s
 
 CMakeFiles/main.dir/cow_test.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/cow_test.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/cow_test.cpp.obj: ../cow_test.cpp
 CMakeFiles/main.dir/cow_test.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:/Users/komornicki/OneDrive - ZF Friedrichshafen AG/Desktop/Cpp_Projects/CowClass/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/main.dir/cow_test.cpp.obj"
-	C:/msys64/mingw64/bin/x86_64-w64-mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/cow_test.cpp.obj -MF CMakeFiles/main.dir/cow_test.cpp.obj.d -o CMakeFiles/main.dir/cow_test.cpp.obj -c "C:/Users/komornicki/OneDrive - ZF Friedrichshafen AG/Desktop/Cpp_Projects/CowClass/cow_test.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:/Users/komornicki/OneDrive - ZF Friedrichshafen AG/Desktop/Cpp_Basics/CowClass/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/main.dir/cow_test.cpp.obj"
+	C:/msys64/mingw64/bin/x86_64-w64-mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/cow_test.cpp.obj -MF CMakeFiles/main.dir/cow_test.cpp.obj.d -o CMakeFiles/main.dir/cow_test.cpp.obj -c "C:/Users/komornicki/OneDrive - ZF Friedrichshafen AG/Desktop/Cpp_Basics/CowClass/cow_test.cpp"
 
 CMakeFiles/main.dir/cow_test.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/main.dir/cow_test.cpp.i"
-	C:/msys64/mingw64/bin/x86_64-w64-mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:/Users/komornicki/OneDrive - ZF Friedrichshafen AG/Desktop/Cpp_Projects/CowClass/cow_test.cpp" > CMakeFiles/main.dir/cow_test.cpp.i
+	C:/msys64/mingw64/bin/x86_64-w64-mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:/Users/komornicki/OneDrive - ZF Friedrichshafen AG/Desktop/Cpp_Basics/CowClass/cow_test.cpp" > CMakeFiles/main.dir/cow_test.cpp.i
 
 CMakeFiles/main.dir/cow_test.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/main.dir/cow_test.cpp.s"
-	C:/msys64/mingw64/bin/x86_64-w64-mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:/Users/komornicki/OneDrive - ZF Friedrichshafen AG/Desktop/Cpp_Projects/CowClass/cow_test.cpp" -o CMakeFiles/main.dir/cow_test.cpp.s
+	C:/msys64/mingw64/bin/x86_64-w64-mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:/Users/komornicki/OneDrive - ZF Friedrichshafen AG/Desktop/Cpp_Basics/CowClass/cow_test.cpp" -o CMakeFiles/main.dir/cow_test.cpp.s
 
 # Object files for target main
 main_OBJECTS = \
@@ -114,11 +114,11 @@ main.exe: lib/libgtest_maind.a
 main.exe: lib/libgtestd.a
 main.exe: CMakeFiles/main.dir/linklibs.rsp
 main.exe: CMakeFiles/main.dir/objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:/Users/komornicki/OneDrive - ZF Friedrichshafen AG/Desktop/Cpp_Projects/CowClass/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable main.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:/Users/komornicki/OneDrive - ZF Friedrichshafen AG/Desktop/Cpp_Basics/CowClass/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable main.exe"
 	C:/cmake-3.23.0-rc1-windows-x86_64/bin/cmake.exe -E rm -f CMakeFiles/main.dir/objects.a
 	C:/msys64/mingw64/bin/ar.exe qc CMakeFiles/main.dir/objects.a @CMakeFiles/main.dir/objects1.rsp
 	C:/msys64/mingw64/bin/x86_64-w64-mingw32-g++.exe -g -Wl,--whole-archive CMakeFiles/main.dir/objects.a -Wl,--no-whole-archive -o main.exe -Wl,--out-implib,libmain.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles/main.dir/linklibs.rsp
-	C:/cmake-3.23.0-rc1-windows-x86_64/bin/cmake.exe -D TEST_TARGET=main -D "TEST_EXECUTABLE=C:/Users/komornicki/OneDrive - ZF Friedrichshafen AG/Desktop/Cpp_Projects/CowClass/build/main.exe" -D TEST_EXECUTOR= -D "TEST_WORKING_DIR=C:/Users/komornicki/OneDrive - ZF Friedrichshafen AG/Desktop/Cpp_Projects/CowClass/build" -D TEST_EXTRA_ARGS= -D TEST_PROPERTIES= -D TEST_PREFIX= -D TEST_SUFFIX= -D TEST_FILTER= -D NO_PRETTY_TYPES=FALSE -D NO_PRETTY_VALUES=FALSE -D TEST_LIST=main_TESTS -D "CTEST_FILE=C:/Users/komornicki/OneDrive - ZF Friedrichshafen AG/Desktop/Cpp_Projects/CowClass/build/main[1]_tests.cmake" -D TEST_DISCOVERY_TIMEOUT=5 -D TEST_XML_OUTPUT_DIR= -P C:/cmake-3.23.0-rc1-windows-x86_64/share/cmake-3.23/Modules/GoogleTestAddTests.cmake
+	C:/cmake-3.23.0-rc1-windows-x86_64/bin/cmake.exe -D TEST_TARGET=main -D "TEST_EXECUTABLE=C:/Users/komornicki/OneDrive - ZF Friedrichshafen AG/Desktop/Cpp_Basics/CowClass/build/main.exe" -D TEST_EXECUTOR= -D "TEST_WORKING_DIR=C:/Users/komornicki/OneDrive - ZF Friedrichshafen AG/Desktop/Cpp_Basics/CowClass/build" -D TEST_EXTRA_ARGS= -D TEST_PROPERTIES= -D TEST_PREFIX= -D TEST_SUFFIX= -D TEST_FILTER= -D NO_PRETTY_TYPES=FALSE -D NO_PRETTY_VALUES=FALSE -D TEST_LIST=main_TESTS -D "CTEST_FILE=C:/Users/komornicki/OneDrive - ZF Friedrichshafen AG/Desktop/Cpp_Basics/CowClass/build/main[1]_tests.cmake" -D TEST_DISCOVERY_TIMEOUT=5 -D TEST_XML_OUTPUT_DIR= -P C:/cmake-3.23.0-rc1-windows-x86_64/share/cmake-3.23/Modules/GoogleTestAddTests.cmake
 
 # Rule to build all files generated by this target.
 CMakeFiles/main.dir/build: main.exe
@@ -129,6 +129,6 @@ CMakeFiles/main.dir/clean:
 .PHONY : CMakeFiles/main.dir/clean
 
 CMakeFiles/main.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "C:/Users/komornicki/OneDrive - ZF Friedrichshafen AG/Desktop/Cpp_Projects/CowClass" "C:/Users/komornicki/OneDrive - ZF Friedrichshafen AG/Desktop/Cpp_Projects/CowClass" "C:/Users/komornicki/OneDrive - ZF Friedrichshafen AG/Desktop/Cpp_Projects/CowClass/build" "C:/Users/komornicki/OneDrive - ZF Friedrichshafen AG/Desktop/Cpp_Projects/CowClass/build" "C:/Users/komornicki/OneDrive - ZF Friedrichshafen AG/Desktop/Cpp_Projects/CowClass/build/CMakeFiles/main.dir/DependInfo.cmake" --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "C:/Users/komornicki/OneDrive - ZF Friedrichshafen AG/Desktop/Cpp_Basics/CowClass" "C:/Users/komornicki/OneDrive - ZF Friedrichshafen AG/Desktop/Cpp_Basics/CowClass" "C:/Users/komornicki/OneDrive - ZF Friedrichshafen AG/Desktop/Cpp_Basics/CowClass/build" "C:/Users/komornicki/OneDrive - ZF Friedrichshafen AG/Desktop/Cpp_Basics/CowClass/build" "C:/Users/komornicki/OneDrive - ZF Friedrichshafen AG/Desktop/Cpp_Basics/CowClass/build/CMakeFiles/main.dir/DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/main.dir/depend
 

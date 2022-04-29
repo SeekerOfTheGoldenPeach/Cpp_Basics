@@ -1,6 +1,6 @@
 CMakeFiles/main.dir/cow_test.cpp.obj: \
- C:/Users/komornicki/OneDrive\ -\ ZF\ Friedrichshafen\ AG/Desktop/Cpp_Projects/CowClass/cow_test.cpp \
- C:/Users/komornicki/OneDrive\ -\ ZF\ Friedrichshafen\ AG/Desktop/Cpp_Projects/CowClass/build/_deps/googletest-src/googletest/include/gtest/gtest.h \
+ C:/Users/komornicki/OneDrive\ -\ ZF\ Friedrichshafen\ AG/Desktop/Cpp_Basics/CowClass/cow_test.cpp \
+ C:/Users/komornicki/OneDrive\ -\ ZF\ Friedrichshafen\ AG/Desktop/Cpp_Basics/CowClass/build/_deps/googletest-src/googletest/include/gtest/gtest.h \
  C:/msys64/mingw64/include/c++/11.2.0/cstddef \
  C:/msys64/mingw64/include/c++/11.2.0/x86_64-w64-mingw32/bits/c++config.h \
  C:/msys64/mingw64/include/c++/11.2.0/x86_64-w64-mingw32/bits/os_defines.h \
@@ -151,8 +151,8 @@ CMakeFiles/main.dir/cow_test.cpp.obj: \
  C:/msys64/mingw64/include/c++/11.2.0/bits/stl_vector.h \
  C:/msys64/mingw64/include/c++/11.2.0/bits/stl_bvector.h \
  C:/msys64/mingw64/include/c++/11.2.0/bits/vector.tcc \
- C:/Users/komornicki/OneDrive\ -\ ZF\ Friedrichshafen\ AG/Desktop/Cpp_Projects/CowClass/build/_deps/googletest-src/googletest/include/gtest/internal/gtest-internal.h \
- C:/Users/komornicki/OneDrive\ -\ ZF\ Friedrichshafen\ AG/Desktop/Cpp_Projects/CowClass/build/_deps/googletest-src/googletest/include/gtest/internal/gtest-port.h \
+ C:/Users/komornicki/OneDrive\ -\ ZF\ Friedrichshafen\ AG/Desktop/Cpp_Basics/CowClass/build/_deps/googletest-src/googletest/include/gtest/internal/gtest-internal.h \
+ C:/Users/komornicki/OneDrive\ -\ ZF\ Friedrichshafen\ AG/Desktop/Cpp_Basics/CowClass/build/_deps/googletest-src/googletest/include/gtest/internal/gtest-port.h \
  C:/msys64/mingw64/include/string.h \
  C:/msys64/mingw64/include/sec_api/string_s.h \
  C:/msys64/mingw64/include/sys/stat.h C:/msys64/mingw64/include/io.h \
@@ -167,8 +167,8 @@ CMakeFiles/main.dir/cow_test.cpp.obj: \
  C:/msys64/mingw64/include/c++/11.2.0/bits/codecvt.h \
  C:/msys64/mingw64/include/c++/11.2.0/bits/locale_facets_nonio.tcc \
  C:/msys64/mingw64/include/c++/11.2.0/bits/locale_conv.h \
- C:/Users/komornicki/OneDrive\ -\ ZF\ Friedrichshafen\ AG/Desktop/Cpp_Projects/CowClass/build/_deps/googletest-src/googletest/include/gtest/internal/custom/gtest-port.h \
- C:/Users/komornicki/OneDrive\ -\ ZF\ Friedrichshafen\ AG/Desktop/Cpp_Projects/CowClass/build/_deps/googletest-src/googletest/include/gtest/internal/gtest-port-arch.h \
+ C:/Users/komornicki/OneDrive\ -\ ZF\ Friedrichshafen\ AG/Desktop/Cpp_Basics/CowClass/build/_deps/googletest-src/googletest/include/gtest/internal/custom/gtest-port.h \
+ C:/Users/komornicki/OneDrive\ -\ ZF\ Friedrichshafen\ AG/Desktop/Cpp_Basics/CowClass/build/_deps/googletest-src/googletest/include/gtest/internal/gtest-port-arch.h \
  C:/msys64/mingw64/include/direct.h \
  C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/float.h \
  C:/msys64/mingw64/include/float.h \
@@ -181,30 +181,30 @@ CMakeFiles/main.dir/cow_test.cpp.obj: \
  C:/msys64/mingw64/include/c++/11.2.0/set \
  C:/msys64/mingw64/include/c++/11.2.0/bits/stl_set.h \
  C:/msys64/mingw64/include/c++/11.2.0/bits/stl_multiset.h \
- C:/Users/komornicki/OneDrive\ -\ ZF\ Friedrichshafen\ AG/Desktop/Cpp_Projects/CowClass/build/_deps/googletest-src/googletest/include/gtest/gtest-message.h \
+ C:/Users/komornicki/OneDrive\ -\ ZF\ Friedrichshafen\ AG/Desktop/Cpp_Basics/CowClass/build/_deps/googletest-src/googletest/include/gtest/gtest-message.h \
  C:/msys64/mingw64/include/c++/11.2.0/sstream \
  C:/msys64/mingw64/include/c++/11.2.0/bits/sstream.tcc \
- C:/Users/komornicki/OneDrive\ -\ ZF\ Friedrichshafen\ AG/Desktop/Cpp_Projects/CowClass/build/_deps/googletest-src/googletest/include/gtest/internal/gtest-filepath.h \
- C:/Users/komornicki/OneDrive\ -\ ZF\ Friedrichshafen\ AG/Desktop/Cpp_Projects/CowClass/build/_deps/googletest-src/googletest/include/gtest/internal/gtest-string.h \
- C:/Users/komornicki/OneDrive\ -\ ZF\ Friedrichshafen\ AG/Desktop/Cpp_Projects/CowClass/build/_deps/googletest-src/googletest/include/gtest/internal/gtest-type-util.h \
+ C:/Users/komornicki/OneDrive\ -\ ZF\ Friedrichshafen\ AG/Desktop/Cpp_Basics/CowClass/build/_deps/googletest-src/googletest/include/gtest/internal/gtest-filepath.h \
+ C:/Users/komornicki/OneDrive\ -\ ZF\ Friedrichshafen\ AG/Desktop/Cpp_Basics/CowClass/build/_deps/googletest-src/googletest/include/gtest/internal/gtest-string.h \
+ C:/Users/komornicki/OneDrive\ -\ ZF\ Friedrichshafen\ AG/Desktop/Cpp_Basics/CowClass/build/_deps/googletest-src/googletest/include/gtest/internal/gtest-type-util.h \
  C:/msys64/mingw64/include/c++/11.2.0/cxxabi.h \
  C:/msys64/mingw64/include/c++/11.2.0/x86_64-w64-mingw32/bits/cxxabi_tweaks.h \
- C:/Users/komornicki/OneDrive\ -\ ZF\ Friedrichshafen\ AG/Desktop/Cpp_Projects/CowClass/build/_deps/googletest-src/googletest/include/gtest/gtest-death-test.h \
- C:/Users/komornicki/OneDrive\ -\ ZF\ Friedrichshafen\ AG/Desktop/Cpp_Projects/CowClass/build/_deps/googletest-src/googletest/include/gtest/internal/gtest-death-test-internal.h \
- C:/Users/komornicki/OneDrive\ -\ ZF\ Friedrichshafen\ AG/Desktop/Cpp_Projects/CowClass/build/_deps/googletest-src/googletest/include/gtest/gtest-matchers.h \
+ C:/Users/komornicki/OneDrive\ -\ ZF\ Friedrichshafen\ AG/Desktop/Cpp_Basics/CowClass/build/_deps/googletest-src/googletest/include/gtest/gtest-death-test.h \
+ C:/Users/komornicki/OneDrive\ -\ ZF\ Friedrichshafen\ AG/Desktop/Cpp_Basics/CowClass/build/_deps/googletest-src/googletest/include/gtest/internal/gtest-death-test-internal.h \
+ C:/Users/komornicki/OneDrive\ -\ ZF\ Friedrichshafen\ AG/Desktop/Cpp_Basics/CowClass/build/_deps/googletest-src/googletest/include/gtest/gtest-matchers.h \
  C:/msys64/mingw64/include/c++/11.2.0/atomic \
- C:/Users/komornicki/OneDrive\ -\ ZF\ Friedrichshafen\ AG/Desktop/Cpp_Projects/CowClass/build/_deps/googletest-src/googletest/include/gtest/gtest-printers.h \
+ C:/Users/komornicki/OneDrive\ -\ ZF\ Friedrichshafen\ AG/Desktop/Cpp_Basics/CowClass/build/_deps/googletest-src/googletest/include/gtest/gtest-printers.h \
  C:/msys64/mingw64/include/c++/11.2.0/functional \
  C:/msys64/mingw64/include/c++/11.2.0/bits/std_function.h \
- C:/Users/komornicki/OneDrive\ -\ ZF\ Friedrichshafen\ AG/Desktop/Cpp_Projects/CowClass/build/_deps/googletest-src/googletest/include/gtest/internal/custom/gtest-printers.h \
- C:/Users/komornicki/OneDrive\ -\ ZF\ Friedrichshafen\ AG/Desktop/Cpp_Projects/CowClass/build/_deps/googletest-src/googletest/include/gtest/gtest-param-test.h \
+ C:/Users/komornicki/OneDrive\ -\ ZF\ Friedrichshafen\ AG/Desktop/Cpp_Basics/CowClass/build/_deps/googletest-src/googletest/include/gtest/internal/custom/gtest-printers.h \
+ C:/Users/komornicki/OneDrive\ -\ ZF\ Friedrichshafen\ AG/Desktop/Cpp_Basics/CowClass/build/_deps/googletest-src/googletest/include/gtest/gtest-param-test.h \
  C:/msys64/mingw64/include/c++/11.2.0/iterator \
  C:/msys64/mingw64/include/c++/11.2.0/bits/stream_iterator.h \
- C:/Users/komornicki/OneDrive\ -\ ZF\ Friedrichshafen\ AG/Desktop/Cpp_Projects/CowClass/build/_deps/googletest-src/googletest/include/gtest/internal/gtest-param-util.h \
+ C:/Users/komornicki/OneDrive\ -\ ZF\ Friedrichshafen\ AG/Desktop/Cpp_Basics/CowClass/build/_deps/googletest-src/googletest/include/gtest/internal/gtest-param-util.h \
  C:/msys64/mingw64/include/c++/11.2.0/cassert \
  C:/msys64/mingw64/include/assert.h \
- C:/Users/komornicki/OneDrive\ -\ ZF\ Friedrichshafen\ AG/Desktop/Cpp_Projects/CowClass/build/_deps/googletest-src/googletest/include/gtest/gtest-test-part.h \
- C:/Users/komornicki/OneDrive\ -\ ZF\ Friedrichshafen\ AG/Desktop/Cpp_Projects/CowClass/build/_deps/googletest-src/googletest/include/gtest/gtest_prod.h \
- C:/Users/komornicki/OneDrive\ -\ ZF\ Friedrichshafen\ AG/Desktop/Cpp_Projects/CowClass/build/_deps/googletest-src/googletest/include/gtest/gtest-typed-test.h \
- C:/Users/komornicki/OneDrive\ -\ ZF\ Friedrichshafen\ AG/Desktop/Cpp_Projects/CowClass/build/_deps/googletest-src/googletest/include/gtest/gtest_pred_impl.h \
- C:/Users/komornicki/OneDrive\ -\ ZF\ Friedrichshafen\ AG/Desktop/Cpp_Projects/CowClass/cow.hpp
+ C:/Users/komornicki/OneDrive\ -\ ZF\ Friedrichshafen\ AG/Desktop/Cpp_Basics/CowClass/build/_deps/googletest-src/googletest/include/gtest/gtest-test-part.h \
+ C:/Users/komornicki/OneDrive\ -\ ZF\ Friedrichshafen\ AG/Desktop/Cpp_Basics/CowClass/build/_deps/googletest-src/googletest/include/gtest/gtest_prod.h \
+ C:/Users/komornicki/OneDrive\ -\ ZF\ Friedrichshafen\ AG/Desktop/Cpp_Basics/CowClass/build/_deps/googletest-src/googletest/include/gtest/gtest-typed-test.h \
+ C:/Users/komornicki/OneDrive\ -\ ZF\ Friedrichshafen\ AG/Desktop/Cpp_Basics/CowClass/build/_deps/googletest-src/googletest/include/gtest/gtest_pred_impl.h \
+ C:/Users/komornicki/OneDrive\ -\ ZF\ Friedrichshafen\ AG/Desktop/Cpp_Basics/CowClass/cow.hpp

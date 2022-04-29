@@ -1,5 +1,5 @@
 CMakeFiles/main.dir/cow.cpp.obj: \
- C:/Users/komornicki/OneDrive\ -\ ZF\ Friedrichshafen\ AG/Desktop/Cpp_Projects/CowClass/cow.cpp \
+ C:/Users/komornicki/OneDrive\ -\ ZF\ Friedrichshafen\ AG/Desktop/Cpp_Basics/CowClass/cow.cpp \
  C:/msys64/mingw64/include/c++/11.2.0/iostream \
  C:/msys64/mingw64/include/c++/11.2.0/x86_64-w64-mingw32/bits/c++config.h \
  C:/msys64/mingw64/include/c++/11.2.0/x86_64-w64-mingw32/bits/os_defines.h \
@@ -124,4 +124,4 @@ CMakeFiles/main.dir/cow.cpp.obj: \
  C:/msys64/mingw64/include/c++/11.2.0/bits/ostream.tcc \
  C:/msys64/mingw64/include/c++/11.2.0/istream \
  C:/msys64/mingw64/include/c++/11.2.0/bits/istream.tcc \
- C:/Users/komornicki/OneDrive\ -\ ZF\ Friedrichshafen\ AG/Desktop/Cpp_Projects/CowClass/cow.hpp
+ C:/Users/komornicki/OneDrive\ -\ ZF\ Friedrichshafen\ AG/Desktop/Cpp_Basics/CowClass/cow.hpp
